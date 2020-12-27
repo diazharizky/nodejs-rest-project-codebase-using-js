@@ -1,0 +1,4 @@
+node_env: "development"
+
+listen_host: "0.0.0.0"
+listen_port: 3000
